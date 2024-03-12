@@ -1,0 +1,11 @@
+# ninja log v5
+10	82	7038737323301750	CMakeFiles/sd_lab2.dir/ATM.cpp.obj	af5487448e2bd545
+13	634	7038690384420716	CMakeFiles/sd_lab2.dir/Tranzactie.cpp.obj	98cbbf61b5b322db
+696	853	7041330817126937	sd_lab2.exe	20f41e37563ff68a
+16	932	7022515373592228	CMakeFiles/sd_lab2.dir/Repository.cpp.obj	d76642d62cdf7153
+5	696	7041330815591028	CMakeFiles/sd_lab2.dir/main.cpp.obj	b99fd7d7a9c06026
+10	1172	7022515376010380	CMakeFiles/sd_lab2.dir/Collection.cpp.obj	16753a687d703c8b
+4	662	7041331115684730	CMakeFiles/sd_lab2.dir/main.cpp.obj	b99fd7d7a9c06026
+662	847	7041331117482372	sd_lab2.exe	20f41e37563ff68a
+4	594	7052579051756919	CMakeFiles/sd_lab2.dir/main.cpp.obj	b99fd7d7a9c06026
+595	784	7052579053602332	sd_lab2.exe	20f41e37563ff68a
